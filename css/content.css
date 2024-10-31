@@ -1,0 +1,313 @@
+body {
+    width: 1440px;
+    margin: auto;
+}
+
+.titulnik{
+    width: 100%;
+    height: 710px;
+    background-color: #373737;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+}
+
+.ekran1{
+    width: 1338px;
+    height: 100%;
+    background-image: url('../img/rabstol.png');
+    background-size: cover;
+    border-radius: 70px;
+    margin: auto;
+}
+
+.nazvan{ 
+    font-family: "Spectral-Medium";
+    font-size: 200px;
+    color: #272727;
+    text-align: center;
+}
+
+.tv1{
+    width: 100%;
+    height: 710px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ekran2{
+    background-image: url("../img/dadya.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1378px;
+    height: 100%;
+    border-radius: 70px 0px 0px 70px;
+    margin-left: 80px;
+}
+
+.tv2{
+    width: 100%;
+    height: 710px;
+    background-color: #373737;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+}
+
+.ekran3{
+    width: 1338px;
+    height: 100%;
+    background-image: url('../img/rabstol.png');
+    background-size: cover;
+    border-radius: 70px;
+    margin: auto;
+}
+
+.tv3{
+    width: 100%;
+    height: 710px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.ekran4{
+    background-image: url("../img/dadya.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1378px;
+    height: 100%;
+    border-radius: 0px 70px 70px 0px;
+    margin-right: 80px;
+}
+
+.tv4{
+    width: 100%;
+    height: 710px;
+    background-color: #373737;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+    
+}
+
+.ekran5{
+    width: 1338px;
+    height: 100%;
+    background-image: url('../img/rabstol.png');
+    background-size: cover;
+    border-radius: 70px;
+    margin: auto;
+}
+
+.tv5{
+    width: 100%;
+    height: 710px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ekran6{
+    background-color: black;
+    width: 1378px;
+    height: 100%;
+    border-radius: 70px 0px 0px 70px;
+    margin-left: 80px;
+}
+
+
+.stolbec1{
+    display: flex;
+	flex-direction: column;
+	flex-basis: 100%;
+	flex: 1;
+	height: 48%;
+	background: #fff2e100;
+}
+
+h2{
+    font-family: Spectral-BoldItalic;
+    color: #ffffff;
+    font-size: 115px;
+    text-align: center;
+    margin-top: 65px;
+}
+
+h3{ 
+    font-family: Spectral-ExtraLight;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h4{ 
+    font-family: Spectral-Light;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h5{ 
+    font-family: Spectral-Regular;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h6{ 
+    font-family: Spectral-Medium;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h7{ 
+    font-family: Spectral-SemiBold;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h8{ 
+    font-family: Spectral-Bold;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h9{ 
+    font-family: Spectral-ExtraBold;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+.stolbec2{
+    display: flex;
+	flex-direction: column;
+	flex-basis: 100%;
+	flex: 1;
+	height: 48%;
+	background: #6b666000;
+}
+
+h10{ 
+    font-family: Spectral-ExtraLightItalic;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h11{ 
+    font-family: Spectral-LightItalic;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h12{ 
+    font-family: Spectral-RegularItalic;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h13{ 
+    font-family: Spectral-MediumItalic;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h14{ 
+    font-family: Spectral-SemiBoldItalic;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h15{ 
+    font-family: Spectral-BoldItalic;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+h16{ 
+    font-family: Spectral-ExtraBoldItalic;
+    color: #ffffff00;
+    font-size: 48px;
+}
+
+.stolbec1 .stolbec2{
+	margin-left: 4%;
+}
+
+
+.tv6{
+    width: 100%;
+    height: 710px;
+    background-color: #373737;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+}
+
+.ekran7{
+    width: 1338px;
+    height: 100%;
+    background-image: url('../img/error.png');
+    background-size: cover;
+    border-radius: 70px;
+    margin: auto;
+}
+
+.tv7{
+    width: 100%;
+    height: 710px;
+    background-color: #252525;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ekran8{
+    background-image: url("../img/dadya.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1378px;
+    height: 100%;
+    border-radius:0px 70px 70px 0px;
+    margin-right: 80px;
+}
+
+.tv8{
+    width: 100%;
+    height: 710px;
+    background-color: #373737;
+    margin-top: 0px;
+    padding-top: 65px;
+    padding-bottom: 105px;
+}
+
+.ekran9{
+    width: 1338px;
+    height: 100%;
+    background-image: url('../img/rabstol.png');
+    background-size: cover;
+    border-radius: 70px;
+    margin: auto;
+}
+
+.kaseta{
+    width: 100%;
+    height: 300px;
+    background-color: #252525;
+}
+
+.end{
+    background-color: #1f1f1f;
+    width: 700px;
+    height: 120px;
+    margin: auto;
+}
